@@ -13,8 +13,8 @@
 ### 👨‍💻 About Me
 
 📍 Based in **Indore, Madhya Pradesh, India**  
-🤖 **AI Full Stack Engineer** — I build **RAG applications, MCP servers and AI agents**, backed by a solid **MERN / FastAPI** full-stack foundation  
-💻 Strong in the **MERN stack** — MongoDB · Express.js · React.js · Node.js — now extending it with **Python, LLMs & GenAI**  
+🤖 **AI Full Stack Engineer** I build **RAG applications, MCP servers and AI agents**, backed by a solid **MERN / FastAPI** full-stack foundation  
+💻 Strong in the **MERN stack**  MongoDB · Express.js · React.js · Node.js  now extending it with **Python, LLMs & GenAI**  
 ☁️ Comfortable deploying real apps on **AWS** (EC2, S3, RDS, Amplify)  
 🎯 Good grip on **Object-Oriented Programming (OOP)**, **Database Management Systems (DBMS)** & **Data Structures & Algorithms (DSA)**  
 ⚡ Currently learning: **AI agents, MCP and RAG evaluation**
